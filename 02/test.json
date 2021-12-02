@@ -1,0 +1,26 @@
+[
+  {
+    "command": "forward",
+    "units": 5
+  },
+  {
+    "command": "down",
+    "units": 5
+  },
+  {
+    "command": "forward",
+    "units": 8
+  },
+  {
+    "command": "up",
+    "units": 3
+  },
+  {
+    "command": "down",
+    "units": 8
+  },
+  {
+    "command": "forward",
+    "units": 2
+  }
+]
