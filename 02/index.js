@@ -21,15 +21,6 @@ function dive (data) {
   return cords.x * cords.y;
 }
 
-/*
-
-    down X increases your aim by X units.
-    up X decreases your aim by X units.
-    forward X does two things:
-        It increases your horizontal position by X units.
-        It increases your depth by your aim multiplied by X
-*/
-
 function diveWithAim (data) {
   const cords = {
     x: 0,
